@@ -1,0 +1,73 @@
+{
+ "sim_time": 5226.963227987289, 
+ "16": {
+  "bits_sort": 234880, 
+  "bits_origin_time": 217.9779679775238, 
+  "bits_sim_pairwise": 232850, 
+  "bits_sim_columnwise_time": 0.7128739356994629, 
+  "bits_sim_first": 232850, 
+  "bits_sim_columnwise": 216945, 
+  "bits_sim_pairwise_time": 0.176605224609375, 
+  "bits_sim_first_time": 0.1716899871826172, 
+  "bits_unsort": 266538, 
+  "bits_random": 298337, 
+  "bits_origin": 213072
+ }, 
+ "32": {
+  "bits_sort": 180202, 
+  "bits_origin_time": 252.54127097129822, 
+  "bits_sim_pairwise": 202943, 
+  "bits_sim_columnwise_time": 1.2836849689483643, 
+  "bits_sim_first": 202943, 
+  "bits_sim_columnwise": 166871, 
+  "bits_sim_pairwise_time": 0.1775681972503662, 
+  "bits_sim_first_time": 0.17288994789123535, 
+  "bits_unsort": 223476, 
+  "bits_random": 254333, 
+  "bits_origin": 165433
+ }, 
+ "leaf_number": 36368, 
+ "64": {
+  "bits_sort": 124666, 
+  "bits_origin_time": 283.4496738910675, 
+  "bits_sim_pairwise": 149831, 
+  "bits_sim_columnwise_time": 2.513373851776123, 
+  "bits_sim_first": 149831, 
+  "bits_sim_columnwise": 121592, 
+  "bits_sim_pairwise_time": 0.17630696296691895, 
+  "bits_sim_first_time": 0.17204904556274414, 
+  "bits_unsort": 164318, 
+  "bits_random": 188248, 
+  "bits_origin": 118145
+ }, 
+ "4": {
+  "bits_sort": 316316, 
+  "bits_origin_time": 133.128662109375, 
+  "bits_sim_pairwise": 294604, 
+  "bits_sim_columnwise_time": 0.27123117446899414, 
+  "bits_sim_first": 294604, 
+  "bits_sim_columnwise": 293636, 
+  "bits_sim_pairwise_time": 0.2711789608001709, 
+  "bits_sim_first_time": 0.1543560028076172, 
+  "bits_unsort": 330251, 
+  "bits_random": 343629, 
+  "bits_origin": 300281
+ }, 
+ "max_nodes": 20, 
+ "8": {
+  "bits_sort": 281555, 
+  "bits_origin_time": 180.41017079353333, 
+  "bits_sim_pairwise": 265098, 
+  "bits_sim_columnwise_time": 0.42080187797546387, 
+  "bits_sim_first": 265098, 
+  "bits_sim_columnwise": 260278, 
+  "bits_sim_pairwise_time": 0.175095796585083, 
+  "bits_sim_first_time": 0.16882705688476562, 
+  "bits_unsort": 304597, 
+  "bits_random": 326247, 
+  "bits_origin": 260189
+ }, 
+ "type": "long", 
+ "traj_num": 500, 
+ "non_zero_num": 355172
+}

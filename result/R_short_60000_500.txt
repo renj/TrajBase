@@ -1,0 +1,67 @@
+{
+ "16": {
+  "bits_sort": 1243548, 
+  "bits_origin_time": 10709.361471891403, 
+  "bits_sort_time": 1.7588810920715332, 
+  "bits_tree_dfs_time": 0.5692870616912842, 
+  "bits_tree_dfs_depth": 1176294, 
+  "bits_unsort": 1400928, 
+  "bits_tree_dfs": 1213980, 
+  "bits_random": 1401473, 
+  "bits_origin": 932117, 
+  "bits_tree_dfs_depth_time": 1.3244540691375732
+ }, 
+ "max_nodes": 500, 
+ "leaf_number": 7114, 
+ "64": {
+  "bits_sort": 914366, 
+  "bits_origin_time": 18162.05988407135, 
+  "bits_sort_time": 1.7588810920715332, 
+  "bits_tree_dfs_time": 0.5692870616912842, 
+  "bits_tree_dfs_depth": 835746, 
+  "bits_unsort": 1249780, 
+  "bits_tree_dfs": 927352, 
+  "bits_random": 1250035, 
+  "bits_origin": 613372, 
+  "bits_tree_dfs_depth_time": 1.3244540691375732
+ }, 
+ "4": {
+  "bits_sort": 1397522, 
+  "bits_origin_time": 4343.174084186554, 
+  "bits_sort_time": 1.7588810920715332, 
+  "bits_tree_dfs_time": 0.5692870616912842, 
+  "bits_tree_dfs_depth": 1354266, 
+  "bits_unsort": 1442896, 
+  "bits_tree_dfs": 1360495, 
+  "bits_random": 1443889, 
+  "bits_origin": 1216567, 
+  "bits_tree_dfs_depth_time": 1.3244540691375732
+ }, 
+ "32": {
+  "bits_sort": 1102592, 
+  "bits_origin_time": 14223.464169025421, 
+  "bits_sort_time": 1.7588810920715332, 
+  "bits_tree_dfs_time": 0.5692870616912842, 
+  "bits_tree_dfs_depth": 1026965, 
+  "bits_unsort": 1347763, 
+  "bits_tree_dfs": 1091402, 
+  "bits_random": 1348023, 
+  "bits_origin": 775894, 
+  "bits_tree_dfs_depth_time": 1.3244540691375732
+ }, 
+ "8": {
+  "bits_sort": 1338398, 
+  "bits_origin_time": 7397.208867073059, 
+  "bits_sort_time": 1.7588810920715332, 
+  "bits_tree_dfs_time": 0.5692870616912842, 
+  "bits_tree_dfs_depth": 1282023, 
+  "bits_unsort": 1428306, 
+  "bits_tree_dfs": 1299964, 
+  "bits_random": 1429867, 
+  "bits_origin": 1078752, 
+  "bits_tree_dfs_depth_time": 1.3244540691375732
+ }, 
+ "type": "short", 
+ "traj_num": 60000, 
+ "non_zero_num": 1454583
+}

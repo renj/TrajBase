@@ -1,0 +1,527 @@
+{
+ "qt_100000_1250_3": {
+  "max_nodes": 1250, 
+  "time": 815.1541450023651, 
+  "traj_num": 100000, 
+  "IO": 7879.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1250_2": {
+  "max_nodes": 1250, 
+  "time": 555.8381469249725, 
+  "traj_num": 100000, 
+  "IO": 5443.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1250_1": {
+  "max_nodes": 1250, 
+  "time": 703.332093000412, 
+  "traj_num": 100000, 
+  "IO": 6807.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1250_0": {
+  "max_nodes": 1250, 
+  "time": 824.7453680038452, 
+  "traj_num": 100000, 
+  "IO": 7879.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_1250_3": {
+  "max_nodes": 1250, 
+  "time": 0.011074066162109375, 
+  "traj_num": 100000, 
+  "IO": 57.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt_100000_1250_4": {
+  "max_nodes": 1250, 
+  "time": 536.0571908950806, 
+  "traj_num": 100000, 
+  "IO": 5001.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_500_4": {
+  "max_nodes": 500, 
+  "time": 45.64454197883606, 
+  "traj_num": 100000, 
+  "IO": 506.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1250_2": {
+  "max_nodes": 1250, 
+  "time": 4.356344938278198, 
+  "traj_num": 100000, 
+  "IO": 82.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt_100000_500_4": {
+  "max_nodes": 500, 
+  "time": 398.67096304893494, 
+  "traj_num": 100000, 
+  "IO": 3886.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_500_3": {
+  "max_nodes": 500, 
+  "time": 852.8696091175079, 
+  "traj_num": 100000, 
+  "IO": 7668.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_500_1": {
+  "max_nodes": 500, 
+  "time": 17.645543813705444, 
+  "traj_num": 100000, 
+  "IO": 224.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_500_2": {
+  "max_nodes": 500, 
+  "time": 12.409482955932617, 
+  "traj_num": 100000, 
+  "IO": 206.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_500_3": {
+  "max_nodes": 500, 
+  "time": 1.2630548477172852, 
+  "traj_num": 100000, 
+  "IO": 128.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_500_1": {
+  "max_nodes": 500, 
+  "time": 67.8262870311737, 
+  "traj_num": 100000, 
+  "IO": 654.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_500_0": {
+  "max_nodes": 500, 
+  "time": 53.523327112197876, 
+  "traj_num": 100000, 
+  "IO": 514.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_500_3": {
+  "max_nodes": 500, 
+  "time": 21.802991151809692, 
+  "traj_num": 100000, 
+  "IO": 209.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_500_2": {
+  "max_nodes": 500, 
+  "time": 42.05725383758545, 
+  "traj_num": 100000, 
+  "IO": 467.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_1500_4": {
+  "max_nodes": 1500, 
+  "time": 577.425843000412, 
+  "traj_num": 100000, 
+  "IO": 5550.0, 
+  "index_type": "qt"
+ }, 
+ "qt-bl_100000_500_4": {
+  "max_nodes": 500, 
+  "time": 72.09312796592712, 
+  "traj_num": 100000, 
+  "IO": 730.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1250_4": {
+  "max_nodes": 1250, 
+  "time": 104.15886497497559, 
+  "traj_num": 100000, 
+  "IO": 1001.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_1000_4": {
+  "max_nodes": 1000, 
+  "time": 38.13808798789978, 
+  "traj_num": 100000, 
+  "IO": 401.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1000_3": {
+  "max_nodes": 1000, 
+  "time": 0.011657953262329102, 
+  "traj_num": 100000, 
+  "IO": 65.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1000_2": {
+  "max_nodes": 1000, 
+  "time": 8.9963219165802, 
+  "traj_num": 100000, 
+  "IO": 117.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1000_1": {
+  "max_nodes": 1000, 
+  "time": 10.554624080657959, 
+  "traj_num": 100000, 
+  "IO": 153.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1000_0": {
+  "max_nodes": 1000, 
+  "time": 19.917062044143677, 
+  "traj_num": 100000, 
+  "IO": 254.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt_100000_1500_1": {
+  "max_nodes": 1500, 
+  "time": 703.9454131126404, 
+  "traj_num": 100000, 
+  "IO": 6789.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_1250_0": {
+  "max_nodes": 1250, 
+  "time": 12.488317966461182, 
+  "traj_num": 100000, 
+  "IO": 175.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1500_3": {
+  "max_nodes": 1500, 
+  "time": 32.6143639087677, 
+  "traj_num": 100000, 
+  "IO": 313.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_750_4": {
+  "max_nodes": 750, 
+  "time": 79.71012687683105, 
+  "traj_num": 100000, 
+  "IO": 762.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_750_0": {
+  "max_nodes": 750, 
+  "time": 20.604559898376465, 
+  "traj_num": 100000, 
+  "IO": 296.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_750_3": {
+  "max_nodes": 750, 
+  "time": 1.1905651092529297, 
+  "traj_num": 100000, 
+  "IO": 88.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_750_2": {
+  "max_nodes": 750, 
+  "time": 10.934582948684692, 
+  "traj_num": 100000, 
+  "IO": 139.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_750_0": {
+  "max_nodes": 750, 
+  "time": 56.91370415687561, 
+  "traj_num": 100000, 
+  "IO": 566.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_750_1": {
+  "max_nodes": 750, 
+  "time": 74.13250708580017, 
+  "traj_num": 100000, 
+  "IO": 711.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_750_2": {
+  "max_nodes": 750, 
+  "time": 53.80648684501648, 
+  "traj_num": 100000, 
+  "IO": 513.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_750_3": {
+  "max_nodes": 750, 
+  "time": 26.562495946884155, 
+  "traj_num": 100000, 
+  "IO": 263.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_1000_2": {
+  "max_nodes": 1000, 
+  "time": 512.7796721458435, 
+  "traj_num": 100000, 
+  "IO": 4987.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1000_3": {
+  "max_nodes": 1000, 
+  "time": 813.0515749454498, 
+  "traj_num": 100000, 
+  "IO": 7917.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1000_0": {
+  "max_nodes": 1000, 
+  "time": 815.7383670806885, 
+  "traj_num": 100000, 
+  "IO": 7917.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1000_1": {
+  "max_nodes": 1000, 
+  "time": 652.0955860614777, 
+  "traj_num": 100000, 
+  "IO": 6448.0, 
+  "index_type": "qt"
+ }, 
+ "qt-bl_100000_1250_3": {
+  "max_nodes": 1250, 
+  "time": 30.332746028900146, 
+  "traj_num": 100000, 
+  "IO": 288.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_1000_4": {
+  "max_nodes": 1000, 
+  "time": 438.55073404312134, 
+  "traj_num": 100000, 
+  "IO": 4216.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_1250_1": {
+  "max_nodes": 1250, 
+  "time": 10.589526891708374, 
+  "traj_num": 100000, 
+  "IO": 156.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt_100000_1500_0": {
+  "max_nodes": 1500, 
+  "time": 854.4892809391022, 
+  "traj_num": 100000, 
+  "IO": 8316.0, 
+  "index_type": "qt"
+ }, 
+ "qt-bl_100000_1250_2": {
+  "max_nodes": 1250, 
+  "time": 63.26033687591553, 
+  "traj_num": 100000, 
+  "IO": 641.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_1500_0": {
+  "max_nodes": 1500, 
+  "time": 12.428355932235718, 
+  "traj_num": 100000, 
+  "IO": 179.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1000_0": {
+  "max_nodes": 1000, 
+  "time": 61.782555103302, 
+  "traj_num": 100000, 
+  "IO": 592.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1000_1": {
+  "max_nodes": 1000, 
+  "time": 82.46276211738586, 
+  "traj_num": 100000, 
+  "IO": 799.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1000_2": {
+  "max_nodes": 1000, 
+  "time": 60.03936576843262, 
+  "traj_num": 100000, 
+  "IO": 576.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1000_3": {
+  "max_nodes": 1000, 
+  "time": 30.11925196647644, 
+  "traj_num": 100000, 
+  "IO": 318.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1000_4": {
+  "max_nodes": 1000, 
+  "time": 81.45054197311401, 
+  "traj_num": 100000, 
+  "IO": 785.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-bl_100000_1500_2": {
+  "max_nodes": 1500, 
+  "time": 69.49537920951843, 
+  "traj_num": 100000, 
+  "IO": 669.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_1500_4": {
+  "max_nodes": 1500, 
+  "time": 33.21840310096741, 
+  "traj_num": 100000, 
+  "IO": 361.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_500_0": {
+  "max_nodes": 500, 
+  "time": 24.630733966827393, 
+  "traj_num": 100000, 
+  "IO": 350.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1500_1": {
+  "max_nodes": 1500, 
+  "time": 121.77139401435852, 
+  "traj_num": 100000, 
+  "IO": 1168.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_500_2": {
+  "max_nodes": 500, 
+  "time": 408.039834022522, 
+  "traj_num": 100000, 
+  "IO": 4042.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_1500_2": {
+  "max_nodes": 1500, 
+  "time": 632.6405799388885, 
+  "traj_num": 100000, 
+  "IO": 5973.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_500_1": {
+  "max_nodes": 500, 
+  "time": 531.5756950378418, 
+  "traj_num": 100000, 
+  "IO": 5177.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_1500_1": {
+  "max_nodes": 1500, 
+  "time": 9.554839134216309, 
+  "traj_num": 100000, 
+  "IO": 144.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt_100000_500_0": {
+  "max_nodes": 500, 
+  "time": 839.1990678310394, 
+  "traj_num": 100000, 
+  "IO": 7668.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_1500_3": {
+  "max_nodes": 1500, 
+  "time": 0.012428045272827148, 
+  "traj_num": 100000, 
+  "IO": 59.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1500_0": {
+  "max_nodes": 1500, 
+  "time": 65.30527305603027, 
+  "traj_num": 100000, 
+  "IO": 630.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_750_4": {
+  "max_nodes": 750, 
+  "time": 40.28342604637146, 
+  "traj_num": 100000, 
+  "IO": 422.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1250_0": {
+  "max_nodes": 1250, 
+  "time": 62.29452896118164, 
+  "traj_num": 100000, 
+  "IO": 626.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_750_2": {
+  "max_nodes": 750, 
+  "time": 494.3338260650635, 
+  "traj_num": 100000, 
+  "IO": 4768.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_750_3": {
+  "max_nodes": 750, 
+  "time": 799.6675910949707, 
+  "traj_num": 100000, 
+  "IO": 7884.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_750_0": {
+  "max_nodes": 750, 
+  "time": 803.4381740093231, 
+  "traj_num": 100000, 
+  "IO": 7884.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_750_1": {
+  "max_nodes": 750, 
+  "time": 596.320503950119, 
+  "traj_num": 100000, 
+  "IO": 5522.0, 
+  "index_type": "qt"
+ }, 
+ "qt_100000_750_4": {
+  "max_nodes": 750, 
+  "time": 438.57952404022217, 
+  "traj_num": 100000, 
+  "IO": 4242.0, 
+  "index_type": "qt"
+ }, 
+ "qt-repl_100000_750_1": {
+  "max_nodes": 750, 
+  "time": 14.01164698600769, 
+  "traj_num": 100000, 
+  "IO": 183.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-bl_100000_1250_1": {
+  "max_nodes": 1250, 
+  "time": 92.56015992164612, 
+  "traj_num": 100000, 
+  "IO": 881.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt_100000_1500_3": {
+  "max_nodes": 1500, 
+  "time": 906.5393319129944, 
+  "traj_num": 100000, 
+  "IO": 8316.0, 
+  "index_type": "qt"
+ }, 
+ "qt-bl_100000_1500_4": {
+  "max_nodes": 1500, 
+  "time": 117.60560703277588, 
+  "traj_num": 100000, 
+  "IO": 1132.0, 
+  "index_type": "qt-bl"
+ }, 
+ "qt-repl_100000_1500_2": {
+  "max_nodes": 1500, 
+  "time": 4.305384159088135, 
+  "traj_num": 100000, 
+  "IO": 86.0, 
+  "index_type": "qt-repl"
+ }, 
+ "qt-repl_100000_1250_4": {
+  "max_nodes": 1250, 
+  "time": 33.84512710571289, 
+  "traj_num": 100000, 
+  "IO": 353.0, 
+  "index_type": "qt-repl"
+ }
+}

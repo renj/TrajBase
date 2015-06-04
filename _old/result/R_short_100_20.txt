@@ -1,0 +1,73 @@
+{
+ "sim_time": 0.21615910530090332, 
+ "16": {
+  "bits_sort": 170, 
+  "bits_origin_time": 0.01817607879638672, 
+  "bits_sim_pairwise": 178, 
+  "bits_sim_columnwise_time": 0.014538049697875977, 
+  "bits_sim_first": 178, 
+  "bits_sim_columnwise": 170, 
+  "bits_sim_pairwise_time": 0.0004208087921142578, 
+  "bits_sim_first_time": 0.0003540515899658203, 
+  "bits_unsort": 255, 
+  "bits_random": 255, 
+  "bits_origin": 148
+ }, 
+ "32": {
+  "bits_sort": 118, 
+  "bits_origin_time": 0.025261878967285156, 
+  "bits_sim_pairwise": 124, 
+  "bits_sim_columnwise_time": 0.03177213668823242, 
+  "bits_sim_first": 124, 
+  "bits_sim_columnwise": 116, 
+  "bits_sim_pairwise_time": 0.0004138946533203125, 
+  "bits_sim_first_time": 0.0003979206085205078, 
+  "bits_unsort": 161, 
+  "bits_random": 169, 
+  "bits_origin": 107
+ }, 
+ "leaf_number": 54, 
+ "64": {
+  "bits_sort": 76, 
+  "bits_origin_time": 0.032631874084472656, 
+  "bits_sim_pairwise": 78, 
+  "bits_sim_columnwise_time": 0.06213212013244629, 
+  "bits_sim_first": 78, 
+  "bits_sim_columnwise": 78, 
+  "bits_sim_pairwise_time": 0.0004630088806152344, 
+  "bits_sim_first_time": 0.0003581047058105469, 
+  "bits_unsort": 99, 
+  "bits_random": 98, 
+  "bits_origin": 73
+ }, 
+ "4": {
+  "bits_sort": 342, 
+  "bits_origin_time": 0.008573055267333984, 
+  "bits_sim_pairwise": 285, 
+  "bits_sim_columnwise_time": 0.0033578872680664062, 
+  "bits_sim_first": 285, 
+  "bits_sim_columnwise": 296, 
+  "bits_sim_pairwise_time": 0.00043702125549316406, 
+  "bits_sim_first_time": 0.0003070831298828125, 
+  "bits_unsort": 441, 
+  "bits_random": 435, 
+  "bits_origin": 299
+ }, 
+ "max_nodes": 20, 
+ "8": {
+  "bits_sort": 248, 
+  "bits_origin_time": 0.012391090393066406, 
+  "bits_sim_pairwise": 232, 
+  "bits_sim_columnwise_time": 0.007789134979248047, 
+  "bits_sim_first": 232, 
+  "bits_sim_columnwise": 219, 
+  "bits_sim_pairwise_time": 0.0004000663757324219, 
+  "bits_sim_first_time": 0.0003390312194824219, 
+  "bits_unsort": 358, 
+  "bits_random": 324, 
+  "bits_origin": 220
+ }, 
+ "type": "short", 
+ "traj_num": 100, 
+ "non_zero_num": 509
+}

@@ -1,0 +1,73 @@
+{
+ "sim_time": 0.0930788516998291, 
+ "16": {
+  "bits_sort": 46, 
+  "bits_origin_time": 0.010222911834716797, 
+  "bits_sim_pairwise": 28, 
+  "bits_sim_columnwise_time": 0.026494979858398438, 
+  "bits_sim_first": 28, 
+  "bits_sim_columnwise": 28, 
+  "bits_sim_pairwise_time": 0.000392913818359375, 
+  "bits_sim_first_time": 0.0003540515899658203, 
+  "bits_unsort": 49, 
+  "bits_random": 45, 
+  "bits_origin": 30
+ }, 
+ "32": {
+  "bits_sort": 29, 
+  "bits_origin_time": 0.012989044189453125, 
+  "bits_sim_pairwise": 21, 
+  "bits_sim_columnwise_time": 0.05686593055725098, 
+  "bits_sim_first": 21, 
+  "bits_sim_columnwise": 21, 
+  "bits_sim_pairwise_time": 0.0004029273986816406, 
+  "bits_sim_first_time": 0.0003800392150878906, 
+  "bits_unsort": 32, 
+  "bits_random": 31, 
+  "bits_origin": 22
+ }, 
+ "leaf_number": 10, 
+ "64": {
+  "bits_sort": 18, 
+  "bits_origin_time": 0.015635013580322266, 
+  "bits_sim_pairwise": 15, 
+  "bits_sim_columnwise_time": 0.10770606994628906, 
+  "bits_sim_first": 15, 
+  "bits_sim_columnwise": 17, 
+  "bits_sim_pairwise_time": 0.00044798851013183594, 
+  "bits_sim_first_time": 0.00036597251892089844, 
+  "bits_unsort": 19, 
+  "bits_random": 19, 
+  "bits_origin": 18
+ }, 
+ "4": {
+  "bits_sort": 102, 
+  "bits_origin_time": 0.007246971130371094, 
+  "bits_sim_pairwise": 62, 
+  "bits_sim_columnwise_time": 0.005789041519165039, 
+  "bits_sim_first": 62, 
+  "bits_sim_columnwise": 63, 
+  "bits_sim_pairwise_time": 0.00032019615173339844, 
+  "bits_sim_first_time": 0.00029397010803222656, 
+  "bits_unsort": 111, 
+  "bits_random": 114, 
+  "bits_origin": 70
+ }, 
+ "max_nodes": 50, 
+ "8": {
+  "bits_sort": 71, 
+  "bits_origin_time": 0.008923053741455078, 
+  "bits_sim_pairwise": 41, 
+  "bits_sim_columnwise_time": 0.011747121810913086, 
+  "bits_sim_first": 41, 
+  "bits_sim_columnwise": 42, 
+  "bits_sim_pairwise_time": 0.0003731250762939453, 
+  "bits_sim_first_time": 0.0003371238708496094, 
+  "bits_unsort": 75, 
+  "bits_random": 71, 
+  "bits_origin": 44
+ }, 
+ "type": "short", 
+ "traj_num": 100, 
+ "non_zero_num": 184
+}
